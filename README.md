@@ -1,7 +1,7 @@
 # Virtual Dice
 1) Start program using main.py
 2) Enter parameters of your throw:
-### xDy+z
+    ### xDy+z
 
     - y – type of dice (ex. D6, D10),
     - x – numbers of throws; if you throw once you can skipp it.
